@@ -21,6 +21,7 @@ Powiększanie czcionki cltr + scroll myszki
 (File -> settings -> editor -> general)
 zaznaczyć: "Chenge font size with Cltr+Mouse wheel"
 
+---
 
-# shared-links
+# Polecane linki oraz książki
 
