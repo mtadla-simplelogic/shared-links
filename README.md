@@ -9,6 +9,14 @@ http://www.beginwithjava.com/java/loops/questions.html
 W IntelliJ przejść tutorial obsługi IDE:
 Help -> Learn IDE features
 
+# Omówione tematy z programowania:
+- obsługa IntelliJ
+- zmienne
+- typy danych
+- wczytywanie danych z klawiatury
+- operatory arytmetyczne i logiczne
+- instrukcje sterujące if, if else, switch
+- pętle (głównie for)
 
 # IntelliJ
 
