@@ -1,4 +1,4 @@
-#Polecane zadania
+# Polecane zadania
 Zadania w formie uzupełniania brakujących elementów (do java loops włącznie):
 https://www.w3schools.com/java/exercise.asp
 
