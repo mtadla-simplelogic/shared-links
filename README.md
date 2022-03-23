@@ -1,3 +1,15 @@
+#Polecane zadania
+Zadania w formie uzupełniania brakujących elementów (do java loops włącznie):
+https://www.w3schools.com/java/exercise.asp
+
+Tutaj 2 podstrony z zadaniami praktycznymi na który można poćwiczyć nasze ostatnie zmagania. Ważnym elementem jest, że do każdego zadania jest przedstawiony kod prezentujący przykładowe rozwiązanie:
+http://www.beginwithjava.com/java/decisions/questions.html
+http://www.beginwithjava.com/java/loops/questions.html
+
+W IntelliJ przejść tutorial obsługi IDE:
+Help -> Learn IDE features
+
+
 # IntelliJ
 
 Plugins (File -> settings -> plugins -> marketplace)
