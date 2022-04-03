@@ -1,3 +1,8 @@
+# lista obecnosci
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=9m29-UnEH0irtTe9A2vrdgYjxjBwCp5Dg80uNB1DYBJUNjhYVVU0TEZJVDUwNlBIVEhaNzZKVkc2QS4u
+
+
 # Polecane zadania
 Zadania w formie uzupełniania brakujących elementów (do java loops włącznie):
 https://www.w3schools.com/java/exercise.asp
