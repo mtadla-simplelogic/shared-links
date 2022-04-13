@@ -4,12 +4,23 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=9m29-UnEH0irtTe9A2vrdgYjxjBw
 
 
 # Polecane zadania
-Zadania w formie uzupełniania brakujących elementów (do java loops włącznie):
+Zadania w formie uzupełniania brakujących elementów (wszystko poza klasami i obietkami):
 https://www.w3schools.com/java/exercise.asp
 
-Tutaj 2 podstrony z zadaniami praktycznymi na który można poćwiczyć nasze ostatnie zmagania. Ważnym elementem jest, że do każdego zadania jest przedstawiony kod prezentujący przykładowe rozwiązanie:
+Tutaj podstrony z zadaniami praktycznymi na który można poćwiczyć nasze ostatnie zmagania. Ważnym elementem jest, że do każdego zadania jest przedstawiony kod prezentujący przykładowe rozwiązanie:
+
+If/swtich
 http://www.beginwithjava.com/java/decisions/questions.html
+
+Pętle:
 http://www.beginwithjava.com/java/loops/questions.html
+
+Metody:
+http://www.beginwithjava.com/java/methods/questions.html
+
+Tablice (zadania 1, 2, 3, 6, 7):
+http://www.beginwithjava.com/java/arrays-arraylist/questions.html
+
 
 W IntelliJ przejść tutorial obsługi IDE:
 Help -> Learn IDE features
@@ -22,6 +33,8 @@ Help -> Learn IDE features
 - operatory arytmetyczne i logiczne
 - instrukcje sterujące if, if else, switch
 - pętle (głównie for)
+- tablice
+- metody
 
 # IntelliJ
 
@@ -49,6 +62,10 @@ zaznaczyć: "Chenge font size with Cltr+Mouse wheel"
 ---
 
 # Polecane linki oraz książki
+
+Nowe wydanie 2022 Head First java - przedsprzedaż 
+https://www.amazon.pl/Head-First-Java-Brain-Friendly-Guide-dp-1491910771/dp/1491910771/ref=dp_ob_title_bk
+
 
 https://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm#format/e
 
