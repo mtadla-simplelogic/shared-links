@@ -1,11 +1,3 @@
-ankieta:
-https://forms.office.com/Pages/ResponsePage.aspx?id=9m29-UnEH0irtTe9A2vrdgYjxjBwCp5Dg80uNB1DYBJUMUw4S01DUzdDQkNNR1JaWVBGRzZIMTVONC4u
-
-
-lista:
-https://forms.office.com/Pages/ResponsePage.aspx?id=9m29-UnEH0irtTe9A2vrdgYjxjBwCp5Dg80uNB1DYBJUNjhYVVU0TEZJVDUwNlBIVEhaNzZKVkc2QS4u
-
-
 # Polecane zadania
 Zadania w formie uzupełniania brakujących elementów (wszystko poza klasami i obietkami):
 https://www.w3schools.com/java/exercise.asp
