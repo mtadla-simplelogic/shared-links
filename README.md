@@ -5,6 +5,10 @@ https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.c
 # Jenkins
 https://www.jenkins.io/
 
+
+# raporty
+https://docs.qameta.io/allure/
+
 # Polecane zadania
 Zadania w formie uzupełniania brakujących elementów (wszystko poza klasami i obietkami):
 https://www.w3schools.com/java/exercise.asp
